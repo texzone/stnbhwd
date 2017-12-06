@@ -1,1 +1,0 @@
-/usr/bin/cc  -fPIC  -fopenmp  -shared  -o libstn.so CMakeFiles/stn.dir/init.c.o  -L/home/tex/torch/install/lib -lluaT /home/tex/torch/install/lib/libTH.so.0 -lrt -lm -Wl,-rpath,/home/tex/torch/install/lib::::::::::::::: 

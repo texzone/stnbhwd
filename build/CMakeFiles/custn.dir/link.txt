@@ -1,1 +1,0 @@
-/usr/bin/c++  -fPIC  -fopenmp  -shared  -o libcustn.so CMakeFiles/custn.dir/custn_generated_init.cu.o  -L/home/tex/torch/install/lib /usr/local/cuda-9.0/lib64/libcudart_static.a -lpthread -ldl -lrt -lluaT -lTHC /home/tex/torch/install/lib/libTH.so.0 -lrt -lm -Wl,-rpath,/home/tex/torch/install/lib::::::::::::::: 

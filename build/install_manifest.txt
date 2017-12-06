@@ -1,7 +1,0 @@
-/home/tex/torch/install/../../../../usr/local/lib/libstn.so
-/home/tex/torch/install/../../../../usr/local/lua/stn/test.lua
-/home/tex/torch/install/../../../../usr/local/lua/stn/AffineGridGeneratorBHWD.lua
-/home/tex/torch/install/../../../../usr/local/lua/stn/AffineTransformMatrixGenerator.lua
-/home/tex/torch/install/../../../../usr/local/lua/stn/init.lua
-/home/tex/torch/install/../../../../usr/local/lua/stn/BilinearSamplerBHWD.lua
-/home/tex/torch/install/../../../../usr/local/lib/libcustn.so
