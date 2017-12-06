@@ -1,0 +1,8 @@
+/home/tex/Downloads/stnbhwd-master/build/CMakeFiles/install.dir
+/home/tex/Downloads/stnbhwd-master/build/CMakeFiles/list_install_components.dir
+/home/tex/Downloads/stnbhwd-master/build/CMakeFiles/edit_cache.dir
+/home/tex/Downloads/stnbhwd-master/build/CMakeFiles/stn.dir
+/home/tex/Downloads/stnbhwd-master/build/CMakeFiles/rebuild_cache.dir
+/home/tex/Downloads/stnbhwd-master/build/CMakeFiles/custn.dir
+/home/tex/Downloads/stnbhwd-master/build/CMakeFiles/install/strip.dir
+/home/tex/Downloads/stnbhwd-master/build/CMakeFiles/install/local.dir
